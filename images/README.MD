@@ -1,0 +1,1 @@
+The image `jellyfin-vue-icon-transparent` has been taken from [Jellyfin-UX](github.com/jellyfin/jellyfin-ux) and converted into a PNG for the use of these templates. All rights go to the [Jellyfin Project](https://jellyfin.org).
