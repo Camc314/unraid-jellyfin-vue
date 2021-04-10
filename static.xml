@@ -13,7 +13,7 @@
   <Category>MediaServer:Video MediaServer:Music MediaServer:Books MediaServer:Photos MediaServer:Other</Category>
   <WebUI>http://[IP]:[PORT:3000]/</WebUI>
   <TemplateURL/>
-  <Icon>https://raw.githubusercontent.com/Camc314/unraid-jellyfin-vue/3bd681f63ac532c8ea1bd0e90393cfc914176e7d/jellyfin-vue-icon-transparent.png</Icon>
+  <Icon>https://raw.githubusercontent.com/Camc314/unraid-jellyfin-vue/main/images/jellyfin-vue-icon-transparent.png</Icon>
   <ExtraParams/>
   <PostArgs/>
   <CPUset/>
